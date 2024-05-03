@@ -7,4 +7,4 @@ Hola soy Carlos
 -el camino hacia el exito es en base al esfuerzo
 -aprende de los errores y procura no volverlos a cometer
 ### este artículo lo saqué del siguiente link:
-(https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+[link del articulo](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
